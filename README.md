@@ -1,2 +1,2 @@
 # Capstone-Engagement
-[Intro.pdf](https://github.com/abudhaka/Capstone-Engagement/Capstone Engagement.pdf)
+![https://github.com/abudhaka/Capstone-Engagement/blob/main](Capstone Engagement.pdf)
